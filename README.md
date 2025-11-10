@@ -1,6 +1,6 @@
 # Heuristic Algorithms for Engineering Optimization (in SageMath)
 
-This repository contains a Jupyter Notebook (`3. Генетический алгоритм.ipynb`) that implements and compares two different heuristic optimization algorithms to solve an engineering problem.
+This repository contains a Jupyter Notebook (`Engineering-Optimization-Sagemath.ipynb`) that implements and compares two different heuristic optimization algorithms to solve an engineering problem.
 
 ## The Problem
 
